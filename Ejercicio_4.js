@@ -9,6 +9,6 @@ while(true){
         
         break;
     }
-    cadena+="\n --"+scanner;
+    cadena+=scanner+"--";
 
 }
